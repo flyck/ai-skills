@@ -1,0 +1,15 @@
+# Secrets and local state that skills may create at runtime
+.auth/
+.env
+*.local.json
+.claude/
+
+# Caches
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+.idea/
+
+# Local overlay target for scripts/link.sh
+scripts/link.target
