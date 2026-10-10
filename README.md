@@ -1,6 +1,6 @@
 # personal-ai-skills
 
-My personal Claude Code skills. They are overlaid onto another skill directory,
+My personal AI skills. They are overlaid onto another skill directory,
 for example a team or company skill repo that `~/.claude/skills` points at.
 
 ## Layout
